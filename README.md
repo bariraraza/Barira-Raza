@@ -16,7 +16,7 @@ An aspiring **Machine Learning Engineer & Python Developer** focused on turning 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python
 - **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras
-- **Environments & Tools:** Google Colab, Jupyter Notebook, Git, GitHub, Hugging Face
+- **Environments & Tools:** Google Colab, Git, GitHub, Hugging Face
 
 ---
 
